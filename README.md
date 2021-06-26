@@ -1,13 +1,24 @@
 <h1 align="center">Hi 👋, We Are Code-Intelli Developers</h1>
 <h3 align="center">A passionate UIUX Designer, frontend & Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itvmh&label=Profile%20views&color=0e75b6&style=flat" alt="itvmh" /> </p>
+
 
 - 🔭 I’m currently working on **MERN, DJANGO**
 
 - 🌱 I’m currently learning **REACT,ANGULAR,VUE,GSAP,UIUX,NODE,EXPRESS,MONGODB,TAILWIND,DJANGO**
 
-- 👯 I’m looking to collaborate on **3D DESIGN**
+- 👯 Welcome to Code Intelli,
+      I hope you are safe and fine in this pandemic.
+      We are a professional and high-quality service provider. We deliver quality work within time limits with great accuracy to the customer. We strongly believe that         our experience, skills, and ideas will be beneficial for related projects.
+
+      We would glad to offer you the creative services for: 
+
+      1. UI UX design 
+      2. Website Template (Responsive)
+      3. E-commerce Website using Django And MERN
+      4. Mobile App Development Using Android, React Native, And Flutter 
+
+      Thanks for your time
 
 - 💬 Ask me about **REACT,NODE,MONGODB**
 
