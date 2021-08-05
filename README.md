@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, We Are Code-Intelli Developers</h1>
+<h1 align="center">Hey Githubers 👋, We Are Code-Intelli Developers</h1>
 <h3 align="center">A passionate UIUX Designer, frontend & Backend developer from India</h3>
 
 
 
-- 🔭 I’m currently working on **MERN, DJANGO**
+- 🔭 I’m currently working on **MERN, DJANGO, UIUX DESIGNER, Product Designer**
 
 - 🌱 I’m currently learning **REACT,ANGULAR,VUE,GSAP,UIUX,NODE,EXPRESS,MONGODB,TAILWIND,DJANGO**
 
