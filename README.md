@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **REACT,NODE,MONGODB**
 
-- 📫 How to reach me **codeintelli2021@gmail.com**
+-    📫 How to reach me **codeintelli2021@gmail.com**
 -                 **or**
 -         **dushyant.khoda007@gmail.com**
 
